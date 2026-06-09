@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+@SuppressWarnings("unchecked")
 public class Main {
 
     static class FastScanner {
