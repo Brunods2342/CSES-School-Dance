@@ -135,12 +135,12 @@ V = `O(M+N+2)`
 
 E = `O(M+N+K)`
 
-# Casos especiais
+## Casos especiais
 
 - Nenhum par possível
 - Todos podem dançar com todos
 
-# Submissão ao CSES
+## Submissão ao CSES
 ![](/evidencias/image.png)
 
 
